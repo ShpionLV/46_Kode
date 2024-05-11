@@ -21,45 +21,47 @@ Usage
 
 This data frame contains the following columns:
 
-##### RI
+##### Relative measurements
+
+###### RI
 
     refractive index; more precisely the refractive index is 1.518xxxx.
 
-    The next 8 measurements are percentages by weight of oxides.
+##### Measurements in percentages by weight of oxides
 
-##### Na
+###### Na
 
     sodium.
 
-##### Mg
+###### Mg
 
     manganese.
 
-##### Al
+###### Al
 
     aluminium.
 
-##### Si
+###### Si
 
     silicon.
 
-##### K
+###### K
 
     potassium.
 
-##### Ca
+###### Ca
 
     calcium.
 
-##### Ba
+###### Ba
 
     barium.
 
-##### Fe
+###### Fe
 
     iron.
 
-##### type
+###### type
 
     The fragments were originally classed into seven types, one of which was absent in this dataset. The categories which occur are window float glass (WinF: 70), window non-float glass (WinNF: 76), vehicle window glass (Veh: 17), containers (Con: 13), tableware (Tabl: 9) and vehicle headlamps (Head: 29).
 
