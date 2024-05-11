@@ -6,6 +6,8 @@
 
 create a virtual environment and install the requirements
 
+switch junyper kernel to the virtual environment
+
 launch code
 
 ## Data Description
